@@ -115,4 +115,4 @@ Forwarding from 127.0.0.1:8200 -> 8200
 Forwarding from [::1]:8200 -> 8200
 ```
 8. Теперь в vault можно было зайти по ссылке [http://localhost:8200](http://localhost:8200)
-![image](Images/Screenshot from 2022-12-10 19-44-59.png)
+![image](https://github.com/lilylurie/2022_2023-blockchain-20b13mm-Lurie_l_m/blob/main/lab1/Images/Screenshot%20from%202022-12-10%2019-44-59.png)
